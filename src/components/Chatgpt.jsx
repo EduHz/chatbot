@@ -2,7 +2,7 @@ import "./Chatgpt.css";
 
 export default function Chatgpt() {
   return (
-    <>
+    <div className="falsobody">
       <main>
         <ul>
           <li class="message bot">
@@ -27,6 +27,6 @@ export default function Chatgpt() {
           <span></span>
         </li>
       </template>
-    </>
+    </div>
   );
 }
