@@ -30,3 +30,5 @@ export default function Chatgpt() {
     </div>
   );
 }
+
+// Lo voy a re hacer todo
